@@ -13,7 +13,7 @@
 - 🔧 Coapps.ai – where I explored data engineering tools and ML model deployment
 - 📊 Pixel Factor Solutions – where I honed my skills as a Power BI Developer
 
-🌟 Currently, I'm working at Technocolabs Software Private Limited as a Data/BI Developer. I enjoy turning data into actionable insights and learning new tools and technologies along the way.
+🌟 Currently, I'm working at Technocolabs Software Private Limited as a Data Scientist Intern. I enjoy turning data into actionable insights and learning new tools and technologies along the way.
 
 📌 Fun Fact: I'm a fast learner who thrives on solving problems and producing great results!
 
