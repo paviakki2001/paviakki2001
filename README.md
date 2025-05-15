@@ -1,27 +1,29 @@
-# Hi there, I'm Pavithra Veerapathiran 👋
+### Hi there 👋 I'm [Your Name]
 
-🎓 I graduated from **Jerusalem College of Engineering**, and I'm currently pursuing  my studies in  **Executive PG Programme in Data Science and Artificial Intelligence**.
+🎓 I'm a graduate of Jerusalem College of Engineering and currently pursuing an Executive PG Program in Data Science and Artificial Intelligence. My academic and hands-on experiences have helped me build a strong foundation in data analytics, machine learning, and business intelligence.
 
-🛠️ During my academic journey, I’ve worked on exciting college projects like:
+🚀 I've worked on several impactful projects during my college years and postgraduate program, including:
+- 📄 Automatic Question Paper Generating System – Part 1 & 2
+- 🦠 Covid-19 Data Analysis (Capstone)
+- 🛒 Walmart Sales Forecasting (Capstone)
+- 🎬 Netflix User Engagement Project (Capstone)
+- 📊 YouTube Data Analysis with Power BI (Capstone)
 
-* 📄 **Automatic Question Paper Generating System - Streamlining Assessment and Evaluation(Part-1)**
-* 📄 **Automatic Question Paper Generating System - Streamlining Assessment and Evaluation(Part-2)**
-  
 💼 I’ve completed internships at:
+- 🔧 Coapps.ai – where I explored data engineering tools and ML model deployment
+- 📊 Pixel Factor Solutions – where I honed my skills as a Power BI Developer
 
-🔹 **Coapps.ai**
+🌟 Currently, I'm working at Technocolabs Software Private Limited as a Data/BI Developer. I enjoy turning data into actionable insights and learning new tools and technologies along the way.
 
-🔹 **Pixel Factor Solutions**
+📌 Fun Fact: I'm a fast learner who thrives on solving problems and producing great results!
 
-🚀 I'm currently working with **Technocolabs Software Private Limited** as part of my professional journey as **DataScientist Intern**
-
-💡 Fun Fact:&#x20;
-
-I have a knack for **grasping new concepts quickly** and delivering **fantastic results** under tight timelines.
+🛠️ Tech Stack:
+- Power BI
+- Python, SQL(partially)
+- Azure ML, MLOps
+- Scikit-learn, Pandas, NumPy
+- Git, GitHub
 
 📫 Let’s connect!
-Feel free to explore my repositories to see what I’m working on!
+Feel free to check out my repositories or reach out to collaborate!
 
----
-
-*Thanks for stopping by!*
