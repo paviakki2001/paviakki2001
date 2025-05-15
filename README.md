@@ -6,14 +6,14 @@
 
 * 📄 **Automatic Question Paper Generating System - Streamlining Assessment and Evaluation(Part-1)**
 * 📄 **Automatic Question Paper Generating System - Streamlining Assessment and Evaluation(Part-2)**
-
+  
 💼 I’ve completed internships at:
 
 🔹 **Coapps.ai**
 
 🔹 **Pixel Factor Solutions**
 
-🚀 I'm currently working with **Technocolabs Software Private     Limited** as part of my professional journey as **DataScientist Intern**
+🚀 I'm currently working with **Technocolabs Software Private Limited** as part of my professional journey as **DataScientist Intern**
 
 💡 Fun Fact:&#x20;
 
