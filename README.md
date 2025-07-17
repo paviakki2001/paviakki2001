@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Pavithra Veerapathiran
 
-🎓 I'm a graduate of Jerusalem College of Engineering and currently pursuing an Executive PG Program in Data Science and Artificial Intelligence. My academic and hands-on experiences have helped me build a strong foundation in data analytics, machine learning, and business intelligence.
+🎓 I'm a graduate of Jerusalem College of Engineering and an Executive PG Program in Data Science and Artificial Intelligence. My academic and hands-on experiences have helped me build a strong foundation in data analytics, machine learning, and business intelligence.
 
 🚀 I've worked on several impactful projects during my college years and postgraduate program, including:
 - 📄 Automatic Question Paper Generating System – Part 1 & 2
