@@ -33,7 +33,7 @@
 
 ### Global Custody Tax
 
-**April 2026 – Present**
+**April 2026 – August 2026**
 
 Supported international **Tax Relief at Source, Reclaim, and Refund** processes while developing strong analytical, data-management, and business problem-solving capabilities.
 
@@ -260,24 +260,6 @@ My first professional opportunity to learn Power BI in depth and apply Business 
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=paviakki2001&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="Pavithra's GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=paviakki2001&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most-used programming languages"
-  />
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced Machine Learning
@@ -292,7 +274,7 @@ My first professional opportunity to learn Power BI in depth and apply Business 
 ## 🤝 Let's Connect
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/pavithra-veerapathiran-949403274">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
@@ -300,7 +282,7 @@ My first professional opportunity to learn Power BI in depth and apply Business 
     <img src="https://img.shields.io/badge/GitHub-paviakki2001-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
+  <a href="mailto:pavijanu2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
